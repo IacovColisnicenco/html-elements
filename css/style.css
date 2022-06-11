@@ -1,0 +1,29 @@
+/* http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/the_little_prince.htm*/
+
+body{
+    background-color: #ffffe0;
+    font-size: 13px;
+}
+
+h1, h2{
+    font-family: "times new roman", "palatino linotype", athena, tahoma;
+   
+}
+h1 {
+    font-size: 24px;
+    font-weight: 800;
+    color:#d83b34;
+    text-align: center;
+}
+h2{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 13px;
+    color:black;
+}
+h3{
+font-size: 16px;
+font-weight: 700;
+color:#cc0000;
+text-align: center;
+}
